@@ -24,4 +24,4 @@ hs_err_pid*
 
 .idea/
 
-/src/main/java/com/breezevv/leetcode/editor/cn/doc/content/*.md
+src/main/java/com/breezevv/leetcode/editor/cn/doc/content/
